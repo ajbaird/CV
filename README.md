@@ -10,4 +10,3 @@ View the [PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.
 ## Quick Start
 Feel free to modify my `.tex` file to create your own resume! Please don't use my resume for anything else without permission though.
 
-* [**Edit Résumé on OverLeaf.com**](https://www.overleaf.com/latex/templates/resume-template/ysrmnrwyrhpp)
