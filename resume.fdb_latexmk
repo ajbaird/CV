@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1587524365 "resume.xdv" "resume.pdf" "resume" 1587524365
-  "resume.xdv" 1587524364 48544 1803f6fef842ed114dc914805c581a27 "xelatex"
+["xdvipdfmx"] 1587609100 "resume.xdv" "resume.pdf" "resume" 1587609101
+  "resume.xdv" 1587609100 60980 73d814e36f66a93d51d945c2780f376f "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1587524363 "resume.tex" "resume.xdv" "resume" 1587524365
+["xelatex"] 1587609099 "resume.tex" "resume.xdv" "resume" 1587609101
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -164,17 +164,17 @@
   "/usr/local/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1586288269 4769632 cea4f80911e5df070b1f6d7834d4faf8 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
   "awesome-cv.cls" 1587435011 21942 56eda7054f4548bd6ec74ce47ef2a5a5 ""
-  "resume.aux" 1587524364 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
-  "resume.out" 1587524364 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "resume.tex" 1587523602 3420 508c2e7195778c9176df01f03bf167ae ""
+  "resume.aux" 1587609100 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
+  "resume.out" 1587609100 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "resume.tex" 1587607917 3510 9715905b5c886ff29c349f128db203c3 ""
   "resume/Objective.tex" 1587524362 263 7ad50bf79417e2896fc1c7b6b9bcc451 ""
   "resume/education.tex" 1587523550 424 97db7d58356039017f97312de558fe41 ""
-  "resume/experience.tex" 1587524061 3730 0be491f8efae3dd871189b5c9e2ef594 ""
+  "resume/experience.tex" 1587609097 4911 b74dd0a7764971564084a7486a91dcfe ""
   "resume/projects.tex" 1562882161 868 74eadb0541d76322eba6a6396f1bf6a3 ""
   "resume/publications.tex" 1587520502 867 a0510163f26ac5d55c66c3d259af0910 ""
   "resume/skills.tex" 1562882161 271 17ca759b7cd28ad879489800c81ada89 ""
   (generated)
   "resume.log"
   "resume.out"
-  "resume.xdv"
   "resume.aux"
+  "resume.xdv"
