@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1587862505 "resume.xdv" "resume.pdf" "resume" 1587862506
-  "resume.xdv" 1587862505 118764 4b977b7bd194c6633986cb82cbebb27f "xelatex"
+["xdvipdfmx"] 1587922968 "resume.xdv" "resume.pdf" "resume" 1587922969
+  "resume.xdv" 1587922968 124064 34f5e701bedc0f0c64a21ce67a9c2c8b "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1587862504 "resume.tex" "resume.xdv" "resume" 1587862506
+["xelatex"] 1587922967 "resume.tex" "resume.xdv" "resume" 1587922969
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -164,20 +164,21 @@
   "/usr/local/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1586288269 4769632 cea4f80911e5df070b1f6d7834d4faf8 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
   "awesome-cv.cls" 1587435011 21942 56eda7054f4548bd6ec74ce47ef2a5a5 ""
-  "resume.aux" 1587862505 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
-  "resume.out" 1587862505 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "resume.tex" 1587862503 3594 cd224192a4e57b596913d975a6edab1c ""
+  "resume.aux" 1587922968 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
+  "resume.out" 1587922968 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "resume.tex" 1587922966 3638 9f10bbaf8c5dd60ee6f7d803ffb0f716 ""
   "resume/Objective.tex" 1587524362 263 7ad50bf79417e2896fc1c7b6b9bcc451 ""
+  "resume/Professional.tex" 1587922905 615 ae19249c7ed346a5a8e3ea5f803ea759 ""
   "resume/education.tex" 1587523550 424 97db7d58356039017f97312de558fe41 ""
   "resume/experience.tex" 1587697380 4887 ddbfe505419072265c3686ab83ab10e6 ""
-  "resume/funding.tex" 1587862485 972 c4c0a3d6007767a35122047905e4df39 ""
-  "resume/projects.tex" 1587861121 2206 e4f7a033f287785186fde5d3bd68705b ""
+  "resume/funding.tex" 1587920129 1410 4689722a1ec8203053de007e6c27b426 ""
+  "resume/projects.tex" 1587919602 2196 15bf8924248932c079f6090aaadcdf2c ""
   "resume/publications.tex" 1587860213 1986 cd50000232a8e775170ebe2fb7a1ff16 ""
-  "resume/skills.tex" 1562882161 271 17ca759b7cd28ad879489800c81ada89 ""
-  "resume/talks.tex" 1587860388 2908 949734f8da4a81aee0cc4b99485d42fe ""
+  "resume/skills.tex" 1587921769 568 83fab72750554a8b725892753d9d9eb2 ""
+  "resume/talks.tex" 1587921700 2638 f018b262b671c679917c290f52e85e3d ""
   "resume/teaching.tex" 1587862395 980 ee5d7fcc967ad94003d1a2cce43178ff ""
   (generated)
+  "resume.log"
+  "resume.xdv"
   "resume.out"
   "resume.aux"
-  "resume.xdv"
-  "resume.log"
