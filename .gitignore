@@ -22,3 +22,7 @@
 ## Mac OS X metadata files:
 *.DS_Store
 
+## BibLaTeX auxiliary files:
+*.bbl
+*.bcf
+*.blg
