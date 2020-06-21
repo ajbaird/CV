@@ -1,15 +1,15 @@
 # Fdb version 3
-["biber resume"] 1588905759 "resume.bcf" "resume.bbl" "resume" 1588949340
-  "resume.bcf" 1588949340 102908 42d40cc661d5fcdeb260238c36651e23 "xelatex"
+["biber resume"] 1588905759 "resume.bcf" "resume.bbl" "resume" 1592691774
+  "resume.bcf" 1592691773 102908 42d40cc661d5fcdeb260238c36651e23 "xelatex"
   "resume/refs.bib" 1588905595 2488 8f98876082540c1a05265b8bf5387b3e ""
   (generated)
   "resume.bbl"
   "resume.blg"
-["xdvipdfmx"] 1588949340 "resume.xdv" "resume.pdf" "resume" 1588949340
-  "resume.xdv" 1588949340 148068 ba3a40d2fd9b9270e497df7289d5020a "xelatex"
+["xdvipdfmx"] 1592691774 "resume.xdv" "resume.pdf" "resume" 1592691774
+  "resume.xdv" 1592691773 151484 80c1e10c2f6874718ac3e80c0c66d338 "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1588949338 "resume.tex" "resume.xdv" "resume" 1588949340
+["xelatex"] 1592691772 "resume.tex" "resume.xdv" "resume" 1592691774
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -184,10 +184,10 @@
   "/usr/local/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1586288269 4769632 cea4f80911e5df070b1f6d7834d4faf8 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
   "awesome-cv.cls" 1588528666 27034 a45d3be2f92b8d5c919614e8ee4aea9f ""
-  "resume.aux" 1588949339 2704 e0db55be6300ec91b69790a51b306326 "xelatex"
+  "resume.aux" 1592691773 2704 e0db55be6300ec91b69790a51b306326 "xelatex"
   "resume.bbl" 1588905767 12762 3351f154d2377dadee78d343149fd7d2 "biber resume"
-  "resume.out" 1588949339 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "resume.run.xml" 1588949340 2390 95df23dfe3820dd75e77f118e4e1d101 "xelatex"
+  "resume.out" 1592691773 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "resume.run.xml" 1592691773 2390 95df23dfe3820dd75e77f118e4e1d101 "xelatex"
   "resume.tex" 1588905228 3778 48f8536afba5030f408b1802af44c3e5 ""
   "resume/Objective.tex" 1588946490 505 67bce46327adef0c7795da4c936b57b4 ""
   "resume/Professional.tex" 1588906899 603 3fe1a97c33f3b4b2d2a0367822f512dc ""
@@ -196,14 +196,14 @@
   "resume/experience.tex" 1588905825 4924 7cec71041f32aa78e5fdf3111d90276c ""
   "resume/funding.tex" 1588946164 1633 7e7e145aea27ffa25e0c6d0ce1fd7511 ""
   "resume/projects.tex" 1588906582 2802 c632529533c18fcb29cbbe65754dc47b ""
-  "resume/recommends.tex" 1588906793 1036 77f95fa3f9558072ea77b922b01fe244 ""
+  "resume/recommends.tex" 1592691767 1547 5212f56fcc1628531669218bc8954b0f ""
   "resume/skills.tex" 1588528858 594 10ff1603a4278a8c609b6d1aaa0eb8d4 ""
   "resume/talks.tex" 1588906628 2638 c19806bea51562a8904eac8951f592aa ""
   "resume/teaching.tex" 1588528260 1159 7ea319f79213c0cca02ca87dfd9ebf41 ""
   (generated)
   "resume.bcf"
-  "resume.out"
-  "resume.run.xml"
-  "resume.log"
   "resume.xdv"
+  "resume.log"
   "resume.aux"
+  "resume.run.xml"
+  "resume.out"
