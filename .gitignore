@@ -10,6 +10,9 @@
 *.xvd
 *.synctex.gz
 *.fdb_latexmk
+*.fdb_latexmk
+
+
 
 ## Intermediate documents:
 *.dvi
