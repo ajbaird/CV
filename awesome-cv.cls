@@ -643,14 +643,14 @@
 %-------------------------------------------------------------------------------
 %\RequirePackage[style=verbose, maxnames=99, sorting=ydnt]{biblatex}
 \RequirePackage[ % BibLaTeX
-  sorting=ydnt, % Sorts entries by year (descending order), name, title
-  style=verbose,
+  sorting=ynt, % Sorts entries by year (descending order), name, title
+  style=numeric,
   doi=false,
-  isbn=true,
+  isbn=false,
   url=false,
   eprint=false,
   backref = false, % include back references in bibliography
-  maxcitenames=3, % affects only the citations in the document body
+  maxcitenames=99, % affects only the citations in the document body
   maxbibnames=99, % affects only the bibliography, pass 99 to print all
   hyperref=true,
   block=none,
@@ -682,13 +682,14 @@
     \usebibmacro{journal+issuetitle}%
     \setunit{\space}%
     \printfield{pages}%
-    \newunit%
+   % \newunit%
+   \space
     \printlist{publisher}%
-    \setunit*{\addcomma\space}%
-    \printfield{year}%
-    \newunit%
+   \setunit*{\space}%
+   % \printfield{year}%
+   % \newunit%
   }
-  \par\vspace{0.3\baselineskip}
+  \par\vspace{0.4\baselineskip}
 }
 
 \DeclareBibliographyDriver{inproceedings}{%
@@ -706,7 +707,7 @@
     \printlist{location}%
     \newunit%
   }
-  \par\vspace{0.3\baselineskip}
+  \par\vspace{0.4\baselineskip}
 }
 
 \DeclareBibliographyDriver{incollection}{%

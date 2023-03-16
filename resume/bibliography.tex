@@ -6,47 +6,139 @@
 %-------------------------------------------------------------------------------
 %	SUBSECTION TITLE
 %-------------------------------------------------------------------------------
-\cvsubsection{Journal Articles}
+\cvsubsection{First Section: Peer Reviewed Articles}
 
 \begin{refsection}
+	\nocite{baird2014modeling}
+	\nocite{baird2015neuromechanical}
+	\nocite{battista2015mathematical}
 	\nocite{baird2021multiscale}
 	\nocite{baird2020burncare}
 	\nocite{baird2020biogears}
-	\nocite{baird2020burncare}
-	\nocite{baird2015neuromechanical}
 	\nocite{mcdaniel2019open}
-	\nocite{battista2015mathematical}
+	\nocite{mcdaniel2019full}
 	\nocite{mcdaniel2019whole}
-	\nocite{baird2014modeling}
-
-
-	\newrefcontext[sorting=ydnt]
+	\newrefcontext[sorting=ynt]
 	\printbibliography[heading=none]
 \end{refsection}
 
 %-------------------------------------------------------------------------------
 %	SUBSECTION TITLE
 %-------------------------------------------------------------------------------
-\cvsubsection{Book Chapter}
+\cvsubsection{Second Section: Collaborative Authorship}
+
+None
+
+\cvsubsection{Third Section: MedEDPortal}
+
+None
+
+\cvsubsection{Fourth Section: Book Chapter}
 
 \begin{refsection}
 	\nocite{baird2014numerical}
 
 
-	\newrefcontext[sorting=ydnt]
+	\newrefcontext[sorting=nyt]
 	\printbibliography[heading=none]
 \end{refsection}
 
+\cvsubsection{Fifth Section: Published Books, Videos, Software, ect.}
+
+\begin{refsection}
+    \nocite{tatum_nathan_2021_4710436}
+    \nocite{austin_baird_2020_4304604}
+    \nocite{austin_baird_2020_4021359}
+
+	\newrefcontext[sorting=ynt]
+	\printbibliography[heading=none]
+\end{refsection}
 %-------------------------------------------------------------------------------
 %	SUBSECTION TITLE
 %-------------------------------------------------------------------------------
-\cvsubsection{Conference Proceedings}
+\cvsubsection{Sixth Section: Other PublicationsConference Proceedings}
 
 \begin{refsection}
-    \nocite{mcdaniel2019full}
     \nocite{baird2013electro}
 
-	\newrefcontext[sorting=ydnt]
+	\newrefcontext[sorting=nyt]
 	\printbibliography[heading=none]
 \end{refsection}
 
+\cvsubsection{Seventh Section: Submitted Manuscripts}
+
+\begin{refsection}
+    \nocite{baird2021detecting}
+
+	\newrefcontext[sorting=nyt]
+	\printbibliography[heading=none]
+\end{refsection}
+
+\cvsubsection{Final Section: List of Abstracts}
+
+  \cventry
+    {A Full-Body Model of Burn Pathophysiology and Treatment Using the BioGears Engine} % Empty position
+    {} % Project
+    {} % Empty location
+    {} % Empty date
+     {
+    \begin{cvitems} % Description(s) of tasks/responsibilities
+    \item {We have created a model of systemic burn pathophysiology by incorporating a mathematical model of acute inflammation within the BioGears Engine. This model produces outputs consistent with burns of varying severities and leverages existing BioGears functionality to simulate the effect of treatment on virtual patient outcome. The model performs well for standard resuscitation scenarios and we thus expect it to be useful for educational and training purposes.}
+    \end{cvitems}
+     }
+
+  \cventry
+    {A Whole-Body Mathematical Model of Sepsis Progression and Treatment Designed in the BioGears Physiology Engine} % Empty position
+    {} % Project
+    {} % Empty location
+    {} % Empty date
+     {
+    \begin{cvitems} % Description(s) of tasks/responsibilities
+    \item {Sepsis is a debilitating condition associated with a high mortality rate that greatly strains hospital resources. Though advances have been made in improving sepsis diagnosis and treatment, our understanding of the disease is far from complete. Mathematical modeling of sepsis has the potential to explore underlying biological mechanisms and patient phenotypes that contribute to variability in septic patient outcomes. We developed a comprehensive, whole-body mathematical model of sepsis pathophysiology using the BioGears Engine, a robust open-source virtual human modeling project. We describe the development of a sepsis model and the physiologic response within the BioGears framework. We then define and simulate scenarios that compare sepsis treatment regimens. As such, we demonstrate the utility of this model as a tool to augment sepsis research and as a training platform to educate medical staff.}
+    \end{cvitems}
+     }
+
+  \cventry
+    {Open Source Pharmacokinetic/Pharmacodynamic Framework: Tutorial on the BioGears Engine} % Empty position
+    {} % Project
+    {} % Empty location
+    {} % Empty date
+     {
+    \begin{cvitems} % Description(s) of tasks/responsibilities
+    \item {BioGears is an open-source, lumped parameter, full-body human physiology engine. Its purpose is to provide realistic and comprehensive simulations for medical training, research, and education. BioGears incorporates a physiologically based pharmacokinetic/pharmacodynamic (PK/PD) model that is designed to be applicable to a diversity of drug classes and patients and is extensible to future drugs. In addition, BioGears also supports drug interactions with various patient insults and interventions allowing for a realistic research framework and accurate dose-patient responses. This tutorial will demonstrate how the generic BioGears PK/PD model can be extended to a new substance for prediction of drug administration outcomes.}
+    \end{cvitems}
+     }
+
+  \cventry
+    {A multiscale computational model of angiogenesis after traumatic brain injury, investigating the role location plays in volumetric recovery} % Empty position
+    {} % Project
+    {} % Empty location
+    {} % Empty date
+     {
+    \begin{cvitems} % Description(s) of tasks/responsibilities
+    \item {Vascular endothelial growth factor (VEGF) is a key protein involved in the process of angiogenesis. VEGF is of particular interest after a traumatic brain injury (TBI), as it re-establishes the cerebral vascular network in effort to allow for proper cerebral blood flow and thereby oxygenation of damaged brain tissue. For this reason, angiogenesis is critical in the progression and recovery of TBI patients in the days and weeks post injury. Although well established experimental work has led to advances in our understanding of TBI and the progression of angiogenisis, many constraints still exist with existing methods, especially when considering patient progression in the days following injury. To better understand the healing process on the proposed time scales, we develop a computational model that quickly simulates vessel growth and recovery by coupling VEGF and its interactions with its associated receptors to a physiologically inspired fractal model of the microvascular re-growth. We use this model to clarify the role that diffusivity, receptor kinetics and location of the TBI play in overall blood volume restoration in the weeks post injury and show that proper therapeutic angiogenesis, or vasculogenic therapies, could speed recovery of the patient as a function of the location of injury.}
+    \end{cvitems}
+     }
+
+  \cventry
+    {BioGears: A C++ library for whole body physiology simulations} % Empty position
+    {} % Project
+    {} % Empty location
+    {} % Empty date
+     {
+    \begin{cvitems} % Description(s) of tasks/responsibilities
+    \item {BioGears is an open source, extensible human physiology computational engine that is designed to enhance medical education, research, and training technologies. BioGears is primarily written in C++ and uses an electric circuit analog to characterize the fluid dynamics of the cardiopulmonary system. As medical training requirements become more complex, there is a need to supplement traditional simulators with physiology simulations. To this end, BioGears provides an extensive number of validated injury models and related interventions that may be applied to the simulated patient. In addition, BioGears compiled libraries may be used for computational medical research to construct in-silico clinical trials related to patient treatment and outcomes. Variable patient inputs support diversity and specification in a given application. The engine can be used standalone or integrated with simulators, sensor interfaces, and models of all fidelities. The Library, and all associated projects, are published under the Apache 2.0 license and are made available through the public GitHub repository. BioGears aims to lower the barrier to create complex physiological simulations for a variety of uses and requirements}
+    \end{cvitems}
+     }
+
+  \cventry
+    {BurnCare tablet trainer to enhance burn injury care and treatment} % Empty position
+    {} % Project
+    {} % Empty location
+    {} % Empty date
+     {
+    \begin{cvitems} % Description(s) of tasks/responsibilities
+    \item {Applied Research Associates (ARA) and the United States Army Institute of Surgical Research (USAISR) have been developing a tablet-based simulation environment for burn wound assessment and burn shock resuscitation. This application aims to supplement the current gold standard in burn care education, the Advanced Burn Life Support (ABLS) curriculum. Subject matter experts validate total body surface area (TBSA) identification and analysis and show that the visual fidelity of the tablet virtual patients is consistent with real life thermal injuries. We show this by noting that the error between their burn mapping and the actual patient burns was sufficiently less than that of a random sample population. Statistical analysis is used to confirm this hypothesis. In addition a full body physiology model developed for this project is detailed. Physiological results, and responses to standard care treatment, are detailed and validated. Future updates will include training modules that leverage this model. We have created an accurate, whole-body model of burn TBSA training experience in Unreal 4 on a mobile platform, provided for free to the medical community. We hope to provide learners with more a realistic experience and with rapid feedback as they practice patient assessment, intervention, and reassessment.}
+    \end{cvitems}
+     }
+\newpage
