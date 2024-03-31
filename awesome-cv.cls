@@ -161,7 +161,7 @@
 %-------------------------------------------------------------------------------
 % Set the FontAwesome font to be up-to-date.
 \setfontfamily\FA[Path=\@fontdir]{FontAwesome}
-\setmainfont{Times}
+\setmainfont{FontAwesome}
 % Set font for header (default is Roboto)
 \newfontfamily\headerfont[
   Path=\@fontdir,
