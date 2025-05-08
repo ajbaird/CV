@@ -80,7 +80,7 @@
       <file>resume.bcf</file>
     </requires>
     <requires type="editable">
-      <file>resume/refs.bib</file>
+      <file>refs.bib</file>
     </requires>
   </external>
 </requests>
