@@ -11,8 +11,9 @@
 *.synctex.gz
 *.fdb_latexmk
 *.fdb_latexmk
-resume.synctex.gz
-
+./resume.synctex.gz
+*.xml
+*.gz
 
 
 ## Intermediate documents:
